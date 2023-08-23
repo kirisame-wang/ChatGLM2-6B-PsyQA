@@ -1,0 +1,12 @@
+*/__pycache__
+.env
+.idea
+*.json
+*.lbd
+*.png
+*.zip
+config.ini
+checkpoints/*
+users/pics/*
+users/users.db
+slides
